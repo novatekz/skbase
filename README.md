@@ -1,6 +1,10 @@
 # skbase
 PHP Framework.
 
+## Requirements
+- PHP 8+
+- PHP V8js extension
+            
 ## Structure
 The framework files are located in the `sk` directory, while the app that is made with skBase is located outside `sk` directory.
 Application files will load `sk/init.php` to initialize framework and load everything needed by the app and the framework itself.
