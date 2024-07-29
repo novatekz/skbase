@@ -6,7 +6,7 @@ The framework files are located in the `sk` directory, while the app that is mad
 Application files will load `sk/init.php` to initialize framework and load everything needed by the app and the framework itself.
 
 ### conf/
-`main.php` - general settings
+`main.php` - general settings       <br>
 `db.php`   - database configuration if needed
 
 ### core/
