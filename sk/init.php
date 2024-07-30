@@ -21,5 +21,5 @@ if(!defined('SK_ROOT'))
 define("TIME_NOW", time()); // Set time variable
 
 // initialize main SK class
-require_once SK_ROOT.'/conf/main.php';
+require SK_ROOT.'/conf/main.php';
 $sk = new sk();
