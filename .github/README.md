@@ -33,6 +33,7 @@
        plugins.php  : Manage active plugins.
 
 ## Features
+   - **ReactJS:** Easily implement React components to render on the server-side with PHP as well as on the client. _*V8js required_
    - **Routing:** Simplified routing system that maps URLs to controllers and actions, making it easy to manage application routes.
    - **Middleware support:** Implement m.w. for authentication, CSRF protection, and other request processing tasks.
    - **Database:** Built-in support for multiple databases (MySQL, PostgreSQL, SQLite) with easy-to-use database classes.
@@ -90,10 +91,8 @@
    to prevent a specific plugin from ever being loaded by the framework even if it is specified in the previously mentioned config file, its directory name must start with a dot.
 
 ## Getting Help
-   If you have questions or need assistance, please open an issue 
-   in the GitHub repository or join the community discussions. 
-   Contributions are welcome, and we encourage developers to 
-   share their experiences and improvements.
+   If you have questions or need assistance, please open an issue in the GitHub repository or join the community discussions. 
+   Contributions are welcome, and we encourage devs to share their experiences and improvements.
 
 ## License
    skBase is a free open-source software.
