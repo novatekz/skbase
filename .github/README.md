@@ -1,4 +1,4 @@
-# skBase · ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/novatekz/skbase/total?style=for-the-badge) [![License](https://img.shields.io/github/license/novatekz/skbase?style=for-the-badge)](https://github.com/novatekz/skbase/blob/main/LICENSE)
+# skBase · ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/novatekz/skbase/total?style=flat-square) [![License](https://img.shields.io/github/license/novatekz/skbase?style=flat-square)](https://github.com/novatekz/skbase/blob/main/LICENSE)
 
    PHP Framework. This lightweight and modular framework is designed to 
    help developers build web applications easily, while providing a clean and organized codebase. 
