@@ -15,8 +15,11 @@ if(!defined('THIS_SCRIPT'))
 // Attempt root path autodetection
 if(!defined('SK_ROOT'))
 {
-	define('SK_ROOT', dirname(dirname(__FILE__))."/");
+	define('SK_ROOT', __DIR__);
 }
 
 define("TIME_NOW", time()); // Set time variable
 
+// initialize main SK class
+require_once SK_ROOT.'/conf/main.php';
+$sk = new sk();
