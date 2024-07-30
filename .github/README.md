@@ -1,5 +1,8 @@
 # skBase · ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/novatekz/skbase/total?style=for-the-badge) [![License](https://img.shields.io/github/license/novatekz/skbase?style=for-the-badge)](https://github.com/novatekz/skbase/blob/main/LICENSE)
-PHP Framework. This lightweight and modular framework is designed to help developers build web applications easily, while providing a clean and organized codebase. Under development stage.
+
+   PHP Framework. This lightweight and modular framework is designed to 
+   help developers build web applications easily, while providing a clean and organized codebase. 
+   Under development stage.
 
 ## Requirements
    - PHP 8+
@@ -7,16 +10,17 @@ PHP Framework. This lightweight and modular framework is designed to help develo
 
 ## Installation
    To get started with skBase, clone the repository and include the init.php file in your application:
-```bash
-git clone https://github.com/novatekz/skbase.git
-```
-In your application entry point (e.g., index.php), include the following:
-```php
-<?php
-require 'sk/init.php';
-// your code goes here
-```
-After doing so read the documentation for coding with skBase
+   ```bash
+   git clone https://github.com/novatekz/skbase.git
+   ```
+
+   In your application entry point (e.g., index.php), include the following:
+   ```php
+   <?php
+   require 'sk/init.php';                                           
+        // your code goes here
+   ```
+   After doing so read the documentation for coding with skBase
 
 ## Configuration
    You can configure various aspects of the framework by modifying 
