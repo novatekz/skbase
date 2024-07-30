@@ -1,4 +1,4 @@
-# skbase
+# skbase  -  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/novatekz/skbase/total?style=for-the-badge)
 PHP Framework.
 
 ## Requirements
