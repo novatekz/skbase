@@ -13,7 +13,7 @@
  * and then hook the components on the client side.
  * Requires V8JS PHP extension: http://php.net/v8js
  */
-class ReactJS {
+class react extends sk {
 
   private
     /**
